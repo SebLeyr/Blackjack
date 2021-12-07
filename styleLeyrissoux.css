@@ -1,0 +1,24 @@
+#btJ{
+    visibility: hidden;
+}
+#nomCarteJ{
+    color: springgreen;
+}
+#valueCarteJ{
+    color: springgreen;
+}
+#resultatW{
+    color: firebrick;
+    visibility:hidden;
+}
+#resultatL{
+    color: firebrick;
+    visibility:hidden;
+}
+#blackjack{
+    color: firebrick;
+    visibility:hidden;
+}
+#btReset{
+    visibility:hidden;
+}
